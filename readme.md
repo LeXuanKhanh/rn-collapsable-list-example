@@ -1,4 +1,4 @@
-# Collapsable / Expandalbe / Accordion List in React Native using FLashList and Reanimated
+# Collapsable / Expandable / Accordion List in React Native using FlashList and Reanimated
 
 Fix mostly issues might happen with slow / fast scrolling
 
